@@ -1,12 +1,10 @@
 {
-  "name": "livekit-client",
+  "name": "catalyst-lk-client",
   "version": "0.12.2",
-  "description": "JavaScript/TypeScript client SDK for LiveKit",
+  "description": "Catalyst version of JavaScript/TypeScript client SDK for LiveKit",
   "main": "dist/index.js",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
-  "repository": "git@github.com:livekit/client-sdk-js.git",
-  "author": "David Zhao <david@davidzhao.com>",
   "license": "MIT",
   "scripts": {
     "build": "yarn exec tsc",
